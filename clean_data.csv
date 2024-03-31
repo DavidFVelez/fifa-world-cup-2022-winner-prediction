@@ -1,0 +1,929 @@
+Home,Home score,Away,Away score,Year
+France,4,Mexico,4,4
+Argentina,1,France,1,1
+Chile,3,Mexico,3,3
+Chile,1,France,1,1
+Argentina,6,Mexico,6,6
+Argentina,3,Chile,3,3
+Yugoslavia,2,Brazil,2,2
+Yugoslavia,4,Bolivia,4,4
+Brazil,4,Bolivia,4,4
+Romania,3,Peru,3,3
+Uruguay,1,Peru,1,1
+Uruguay,4,Romania,4,4
+United States,3,Belgium,3,3
+United States,3,Paraguay,3,3
+Paraguay,1,Belgium,1,1
+Argentina,6,United States,6,6
+Uruguay,6,Yugoslavia,6,6
+Uruguay,4,Argentina,4,4
+Spain,3,Brazil,3,3
+Hungary,4,Egypt,4,4
+Switzerland,3,Netherlands,3,3
+Italy,7,United States,7,7
+Czechoslovakia,2,Romania,2,2
+Sweden,3,Argentina,3,3
+Austria,3,France,3,3
+Germany,5,Belgium,5,5
+Austria,2,Hungary,2,2
+Italy,1,Spain,1,1
+Germany,2,Sweden,2,2
+Czechoslovakia,3,Switzerland,3,3
+Italy,1,Spain,1,1
+Italy,1,Austria,1,1
+Czechoslovakia,3,Germany,3,3
+Germany,3,Austria,3,3
+Italy,2,Czechoslovakia,2,2
+Switzerland,1,Germany,1,1
+Hungary,6,Dutch East Indies,6,6
+Cuba,3,Romania,3,3
+France,3,Belgium,3,3
+Italy,2,Norway,2,2
+Brazil,6,Poland,6,6
+Czechoslovakia,3,Netherlands,3,3
+Switzerland,4,Germany,4,4
+Cuba,2,Romania,2,2
+Hungary,2,Switzerland,2,2
+Sweden,8,Cuba,8,8
+Italy,3,France,3,3
+Brazil,1,Czechoslovakia,1,1
+Brazil,2,Czechoslovakia,2,2
+Hungary,5,Sweden,5,5
+Italy,2,Brazil,2,2
+Brazil,4,Sweden,4,4
+Italy,4,Hungary,4,4
+Brazil,4,Mexico,4,4
+Yugoslavia,3,Switzerland,3,3
+Brazil,2,Switzerland,2,2
+Yugoslavia,4,Mexico,4,4
+Brazil,2,Yugoslavia,2,2
+Switzerland,2,Mexico,2,2
+England,2,Chile,2,2
+Spain,3,United States,3,3
+Spain,2,Chile,2,2
+United States,1,England,1,1
+Spain,1,England,1,1
+Chile,5,United States,5,5
+Sweden,3,Italy,3,3
+Sweden,2,Paraguay,2,2
+Italy,2,Paraguay,2,2
+Uruguay,8,Bolivia,8,8
+Uruguay,2,Spain,2,2
+Brazil,7,Sweden,7,7
+Brazil,6,Spain,6,6
+Uruguay,3,Sweden,3,3
+Sweden,3,Spain,3,3
+Uruguay,2,Brazil,2,2
+Brazil,5,Mexico,5,5
+Yugoslavia,1,France,1,1
+Brazil,1,Yugoslavia,1,1
+France,3,Mexico,3,3
+West Germany,4,Turkey,4,4
+Hungary,9,South Korea,9,9
+Hungary,8,West Germany,8,8
+Turkey,7,South Korea,7,7
+West Germany,7,Turkey,7,7
+Uruguay,2,Czechoslovakia,2,2
+Austria,1,Scotland,1,1
+Uruguay,7,Scotland,7,7
+Austria,5,Czechoslovakia,5,5
+Switzerland,2,Italy,2,2
+England,4,Belgium,4,4
+Italy,4,Belgium,4,4
+England,2,Switzerland,2,2
+Switzerland,4,Italy,4,4
+Austria,7,Switzerland,7,7
+Uruguay,4,England,4,4
+West Germany,2,Yugoslavia,2,2
+Hungary,4,Brazil,4,4
+West Germany,6,Austria,6,6
+Hungary,4,Uruguay,4,4
+Austria,3,Uruguay,3,3
+West Germany,3,Hungary,3,3
+Argentina,1,West Germany,1,1
+Northern Ireland,1,Czechoslovakia,1,1
+West Germany,2,Czechoslovakia,2,2
+Argentina,3,Northern Ireland,3,3
+West Germany,2,Northern Ireland,2,2
+Czechoslovakia,6,Argentina,6,6
+Northern Ireland,2,Czechoslovakia,2,2
+France,7,Paraguay,7,7
+Yugoslavia,1,Scotland,1,1
+Yugoslavia,3,France,3,3
+Paraguay,3,Scotland,3,3
+France,2,Scotland,2,2
+Paraguay,3,Yugoslavia,3,3
+Sweden,3,Mexico,3,3
+Hungary,1,Wales,1,1
+Mexico,1,Wales,1,1
+Sweden,2,Hungary,2,2
+Sweden,0,Wales,0,0
+Hungary,4,Mexico,4,4
+Wales,2,Hungary,2,2
+Brazil,3,Austria,3,3
+Soviet Union,2,England,2,2
+Brazil,0,England,0,0
+Soviet Union,2,Austria,2,2
+England,2,Austria,2,2
+Brazil,2,Soviet Union,2,2
+Soviet Union,1,England,1,1
+Brazil,1,Wales,1,1
+France,4,Northern Ireland,4,4
+Sweden,2,Soviet Union,2,2
+West Germany,1,Yugoslavia,1,1
+Brazil,5,France,5,5
+Sweden,3,West Germany,3,3
+France,6,West Germany,6,6
+Brazil,5,Sweden,5,5
+Uruguay,2,Colombia,2,2
+Soviet Union,2,Yugoslavia,2,2
+Yugoslavia,3,Uruguay,3,3
+Soviet Union,4,Colombia,4,4
+Soviet Union,2,Uruguay,2,2
+Yugoslavia,5,Colombia,5,5
+Chile,3,Switzerland,3,3
+West Germany,0,Italy,0,0
+Chile,2,Italy,2,2
+West Germany,2,Switzerland,2,2
+West Germany,2,Chile,2,2
+Italy,3,Switzerland,3,3
+Brazil,2,Mexico,2,2
+Czechoslovakia,1,Spain,1,1
+Brazil,0,Czechoslovakia,0,0
+Spain,1,Mexico,1,1
+Brazil,2,Spain,2,2
+Mexico,3,Czechoslovakia,3,3
+Argentina,1,Bulgaria,1,1
+Hungary,2,England,2,2
+England,3,Argentina,3,3
+Hungary,6,Bulgaria,6,6
+Hungary,0,Argentina,0,0
+England,0,Bulgaria,0,0
+Chile,2,Soviet Union,2,2
+Czechoslovakia,1,Hungary,1,1
+Brazil,3,England,3,3
+Yugoslavia,1,West Germany,1,1
+Czechoslovakia,3,Yugoslavia,3,3
+Brazil,4,Chile,4,4
+Chile,1,Yugoslavia,1,1
+Brazil,3,Czechoslovakia,3,3
+England,0,Uruguay,0,0
+France,1,Mexico,1,1
+Uruguay,2,France,2,2
+England,2,Mexico,2,2
+Mexico,0,Uruguay,0,0
+England,2,France,2,2
+West Germany,5,Switzerland,5,5
+Argentina,2,Spain,2,2
+Spain,2,Switzerland,2,2
+Argentina,0,West Germany,0,0
+Argentina,2,Switzerland,2,2
+West Germany,2,Spain,2,2
+Brazil,2,Bulgaria,2,2
+Portugal,3,Hungary,3,3
+Hungary,3,Brazil,3,3
+Portugal,3,Bulgaria,3,3
+Portugal,3,Brazil,3,3
+Hungary,3,Bulgaria,3,3
+Soviet Union,3,North Korea,3,3
+Italy,2,Chile,2,2
+Chile,1,North Korea,1,1
+Soviet Union,1,Italy,1,1
+North Korea,1,Italy,1,1
+Soviet Union,2,Chile,2,2
+England,1,Argentina,1,1
+West Germany,4,Uruguay,4,4
+Soviet Union,2,Hungary,2,2
+Portugal,5,North Korea,5,5
+West Germany,2,Soviet Union,2,2
+England,2,Portugal,2,2
+Portugal,2,Soviet Union,2,2
+England,4,West Germany,4,4
+Mexico,0,Soviet Union,0,0
+Belgium,3,El Salvador,3,3
+Soviet Union,4,Belgium,4,4
+Mexico,4,El Salvador,4,4
+Soviet Union,2,El Salvador,2,2
+Mexico,1,Belgium,1,1
+Uruguay,2,Israel,2,2
+Italy,1,Sweden,1,1
+Uruguay,0,Italy,0,0
+Sweden,1,Israel,1,1
+Sweden,1,Uruguay,1,1
+Italy,0,Israel,0,0
+England,1,Romania,1,1
+Brazil,4,Czechoslovakia,4,4
+Romania,2,Czechoslovakia,2,2
+Brazil,1,England,1,1
+Brazil,3,Romania,3,3
+England,1,Czechoslovakia,1,1
+Peru,3,Bulgaria,3,3
+West Germany,2,Morocco,2,2
+Peru,3,Morocco,3,3
+West Germany,5,Bulgaria,5,5
+West Germany,3,Peru,3,3
+Bulgaria,1,Morocco,1,1
+Soviet Union,0,Uruguay,0,0
+Italy,4,Mexico,4,4
+Brazil,4,Peru,4,4
+West Germany,3,England,3,3
+Uruguay,1,Brazil,1,1
+Italy,4,West Germany,4,4
+Uruguay,0,West Germany,0,0
+Brazil,4,Italy,4,4
+West Germany,1,Chile,1,1
+East Germany,2,Australia,2,2
+Australia,0,West Germany,0,0
+Chile,1,East Germany,1,1
+Australia,0,Chile,0,0
+East Germany,1,West Germany,1,1
+Brazil,0,Yugoslavia,0,0
+Zaire,0,Scotland,0,0
+Yugoslavia,9,Zaire,9,9
+Scotland,0,Brazil,0,0
+Scotland,1,Yugoslavia,1,1
+Zaire,0,Brazil,0,0
+Uruguay,0,Netherlands,0,0
+Sweden,0,Bulgaria,0,0
+Bulgaria,1,Uruguay,1,1
+Netherlands,0,Sweden,0,0
+Bulgaria,1,Netherlands,1,1
+Sweden,3,Uruguay,3,3
+Italy,3,Haiti,3,3
+Poland,3,Argentina,3,3
+Argentina,1,Italy,1,1
+Haiti,0,Poland,0,0
+Argentina,4,Haiti,4,4
+Poland,2,Italy,2,2
+Netherlands,4,Argentina,4,4
+Brazil,1,East Germany,1,1
+Argentina,1,Brazil,1,1
+East Germany,0,Netherlands,0,0
+Argentina,1,East Germany,1,1
+Netherlands,2,Brazil,2,2
+Yugoslavia,0,West Germany,0,0
+Sweden,0,Poland,0,0
+Poland,2,Yugoslavia,2,2
+West Germany,4,Sweden,4,4
+Poland,0,West Germany,0,0
+Sweden,2,Yugoslavia,2,2
+Brazil,0,Poland,0,0
+Netherlands,1,West Germany,1,1
+Italy,2,France,2,2
+Argentina,2,Hungary,2,2
+Italy,3,Hungary,3,3
+Argentina,2,France,2,2
+France,3,Hungary,3,3
+Argentina,0,Italy,0,0
+West Germany,0,Poland,0,0
+Tunisia,3,Mexico,3,3
+West Germany,6,Mexico,6,6
+Poland,1,Tunisia,1,1
+West Germany,0,Tunisia,0,0
+Poland,3,Mexico,3,3
+Austria,2,Spain,2,2
+Brazil,1,Sweden,1,1
+Austria,1,Sweden,1,1
+Brazil,0,Spain,0,0
+Spain,1,Sweden,1,1
+Brazil,1,Austria,1,1
+Peru,3,Scotland,3,3
+Netherlands,3,Iran,3,3
+Scotland,1,Iran,1,1
+Netherlands,0,Peru,0,0
+Peru,4,Iran,4,4
+Scotland,3,Netherlands,3,3
+Austria,1,Netherlands,1,1
+Italy,0,West Germany,0,0
+Netherlands,2,West Germany,2,2
+Italy,1,Austria,1,1
+Austria,3,West Germany,3,3
+Italy,1,Netherlands,1,1
+Brazil,3,Peru,3,3
+Argentina,2,Poland,2,2
+Peru,0,Poland,0,0
+Argentina,0,Brazil,0,0
+Brazil,3,Poland,3,3
+Argentina,6,Peru,6,6
+Brazil,2,Italy,2,2
+Argentina,3,Netherlands,3,3
+Italy,0,Poland,0,0
+Peru,0,Cameroon,0,0
+Italy,1,Peru,1,1
+Poland,0,Cameroon,0,0
+Poland,5,Peru,5,5
+Italy,1,Cameroon,1,1
+West Germany,1,Algeria,1,1
+Chile,0,Austria,0,0
+West Germany,4,Chile,4,4
+Algeria,0,Austria,0,0
+Algeria,3,Chile,3,3
+West Germany,1,Austria,1,1
+Argentina,0,Belgium,0,0
+Hungary,10,El Salvador,10,10
+Argentina,4,Hungary,4,4
+Belgium,1,El Salvador,1,1
+Belgium,1,Hungary,1,1
+Argentina,2,El Salvador,2,2
+England,3,France,3,3
+Czechoslovakia,1,Kuwait,1,1
+England,2,Czechoslovakia,2,2
+France,4,Kuwait,4,4
+France,1,Czechoslovakia,1,1
+England,1,Kuwait,1,1
+Spain,1,Honduras,1,1
+Yugoslavia,0,Northern Ireland,0,0
+Spain,2,Yugoslavia,2,2
+Honduras,1,Northern Ireland,1,1
+Honduras,0,Yugoslavia,0,0
+Spain,0,Northern Ireland,0,0
+Brazil,2,Soviet Union,2,2
+Scotland,5,New Zealand,5,5
+Brazil,4,Scotland,4,4
+Soviet Union,3,New Zealand,3,3
+Soviet Union,2,Scotland,2,2
+Brazil,4,New Zealand,4,4
+Poland,3,Belgium,3,3
+Belgium,0,Soviet Union,0,0
+Soviet Union,0,Poland,0,0
+West Germany,0,England,0,0
+West Germany,2,Spain,2,2
+Spain,0,England,0,0
+Italy,2,Argentina,2,2
+Argentina,1,Brazil,1,1
+Italy,3,Brazil,3,3
+Austria,0,France,0,0
+Austria,2,Northern Ireland,2,2
+France,4,Northern Ireland,4,4
+Poland,0,Italy,0,0
+West Germany,3,France,3,3
+Poland,3,France,3,3
+Italy,3,West Germany,3,3
+Bulgaria,1,Italy,1,1
+Argentina,3,South Korea,3,3
+Italy,1,Argentina,1,1
+South Korea,1,Bulgaria,1,1
+South Korea,2,Italy,2,2
+Argentina,2,Bulgaria,2,2
+Belgium,1,Mexico,1,1
+Paraguay,1,Iraq,1,1
+Mexico,1,Paraguay,1,1
+Iraq,1,Belgium,1,1
+Paraguay,2,Belgium,2,2
+Iraq,0,Mexico,0,0
+Canada,0,France,0,0
+Soviet Union,6,Hungary,6,6
+France,1,Soviet Union,1,1
+Hungary,2,Canada,2,2
+Hungary,0,France,0,0
+Soviet Union,2,Canada,2,2
+Spain,0,Brazil,0,0
+Algeria,1,Northern Ireland,1,1
+Brazil,1,Algeria,1,1
+Northern Ireland,1,Spain,1,1
+Northern Ireland,0,Brazil,0,0
+Algeria,0,Spain,0,0
+Uruguay,1,West Germany,1,1
+Scotland,0,Denmark,0,0
+West Germany,2,Scotland,2,2
+Denmark,6,Uruguay,6,6
+Denmark,2,West Germany,2,2
+Scotland,0,Uruguay,0,0
+Morocco,0,Poland,0,0
+Portugal,1,England,1,1
+England,0,Morocco,0,0
+Poland,1,Portugal,1,1
+England,3,Poland,3,3
+Portugal,1,Morocco,1,1
+Mexico,2,Bulgaria,2,2
+Soviet Union,3,Belgium,3,3
+Brazil,4,Poland,4,4
+Argentina,1,Uruguay,1,1
+Italy,0,France,0,0
+Morocco,0,West Germany,0,0
+England,3,Paraguay,3,3
+Denmark,1,Spain,1,1
+Brazil,1,France,1,1
+West Germany,0,Mexico,0,0
+Argentina,2,England,2,2
+Spain,1,Belgium,1,1
+France,0,West Germany,0,0
+Argentina,2,Belgium,2,2
+Belgium,2,France,2,2
+Argentina,3,West Germany,3,3
+Cameroon,2,Colombia,2,2
+Czechoslovakia,4,Costa Rica,4,4
+Brazil,0,Argentina,0,0
+West Germany,2,Netherlands,2,2
+Republic of Ireland,0,Romania,0,0
+Italy,2,Uruguay,2,2
+Spain,1,Yugoslavia,1,1
+England,1,Belgium,1,1
+Argentina,0,Yugoslavia,0,0
+Republic of Ireland,0,Italy,0,0
+Czechoslovakia,0,West Germany,0,0
+Cameroon,2,England,2,2
+Argentina,1,Italy,1,1
+West Germany,1,England,1,1
+Italy,2,England,2,2
+West Germany,1,Argentina,1,1
+United States,1,Switzerland,1,1
+Colombia,1,Romania,1,1
+Romania,1,Switzerland,1,1
+United States,2,Colombia,2,2
+Switzerland,0,Colombia,0,0
+United States,0,Romania,0,0
+Cameroon,2,Sweden,2,2
+Brazil,2,Russia,2,2
+Brazil,3,Cameroon,3,3
+Sweden,3,Russia,3,3
+Russia,6,Cameroon,6,6
+Brazil,1,Sweden,1,1
+Germany,1,Bolivia,1,1
+Spain,2,South Korea,2,2
+Germany,1,Spain,1,1
+South Korea,0,Bolivia,0,0
+Bolivia,1,Spain,1,1
+Germany,3,South Korea,3,3
+Argentina,4,Greece,4,4
+Nigeria,3,Bulgaria,3,3
+Argentina,2,Nigeria,2,2
+Bulgaria,4,Greece,4,4
+Argentina,0,Bulgaria,0,0
+Greece,0,Nigeria,0,0
+Italy,0,Republic of Ireland,0,0
+Norway,1,Mexico,1,1
+Italy,1,Norway,1,1
+Mexico,2,Republic of Ireland,2,2
+Italy,1,Mexico,1,1
+Republic of Ireland,0,Norway,0,0
+Belgium,1,Morocco,1,1
+Netherlands,2,Saudi Arabia,2,2
+Belgium,1,Netherlands,1,1
+Saudi Arabia,2,Morocco,2,2
+Belgium,0,Saudi Arabia,0,0
+Morocco,1,Netherlands,1,1
+Germany,3,Belgium,3,3
+Spain,3,Switzerland,3,3
+Saudi Arabia,1,Sweden,1,1
+Romania,3,Argentina,3,3
+Netherlands,2,Republic of Ireland,2,2
+Brazil,1,United States,1,1
+Nigeria,1,Italy,1,1
+Mexico,1,Bulgaria,1,1
+Italy,2,Spain,2,2
+Netherlands,2,Brazil,2,2
+Bulgaria,2,Germany,2,2
+Romania,2,Sweden,2,2
+Bulgaria,1,Italy,1,1
+Sweden,0,Brazil,0,0
+Sweden,4,Bulgaria,4,4
+Brazil,0,Italy,0,0
+Brazil,2,Scotland,2,2
+Morocco,2,Norway,2,2
+Scotland,1,Norway,1,1
+Brazil,3,Morocco,3,3
+Scotland,0,Morocco,0,0
+Brazil,1,Norway,1,1
+Italy,2,Chile,2,2
+Cameroon,1,Austria,1,1
+Chile,1,Austria,1,1
+Italy,3,Cameroon,3,3
+Italy,2,Austria,2,2
+Chile,1,Cameroon,1,1
+Saudi Arabia,0,Denmark,0,0
+France,3,South Africa,3,3
+South Africa,1,Denmark,1,1
+France,4,Saudi Arabia,4,4
+France,2,Denmark,2,2
+South Africa,2,Saudi Arabia,2,2
+Paraguay,0,Bulgaria,0,0
+Spain,2,Nigeria,2,2
+Nigeria,1,Bulgaria,1,1
+Spain,0,Paraguay,0,0
+Nigeria,1,Paraguay,1,1
+Spain,6,Bulgaria,6,6
+South Korea,1,Mexico,1,1
+Netherlands,0,Belgium,0,0
+Belgium,2,Mexico,2,2
+Netherlands,5,South Korea,5,5
+Netherlands,2,Mexico,2,2
+Belgium,1,South Korea,1,1
+FR Yugoslavia,1,Iran,1,1
+Germany,2,United States,2,2
+Germany,2,FR Yugoslavia,2,2
+United States,1,Iran,1,1
+Germany,2,Iran,2,2
+United States,0,FR Yugoslavia,0,0
+England,2,Tunisia,2,2
+Romania,1,Colombia,1,1
+Colombia,1,Tunisia,1,1
+Romania,2,England,2,2
+Colombia,0,England,0,0
+Romania,1,Tunisia,1,1
+Argentina,1,Japan,1,1
+Jamaica,1,Croatia,1,1
+Japan,0,Croatia,0,0
+Argentina,5,Jamaica,5,5
+Argentina,1,Croatia,1,1
+Japan,1,Jamaica,1,1
+Italy,1,Norway,1,1
+Brazil,4,Chile,4,4
+France,1,Paraguay,1,1
+Nigeria,1,Denmark,1,1
+Germany,2,Mexico,2,2
+Netherlands,2,FR Yugoslavia,2,2
+Romania,0,Croatia,0,0
+Argentina,2,England,2,2
+Italy,0,France,0,0
+Brazil,3,Denmark,3,3
+Netherlands,2,Argentina,2,2
+Germany,0,Croatia,0,0
+Brazil,1,Netherlands,1,1
+France,2,Croatia,2,2
+Netherlands,1,Croatia,1,1
+Brazil,0,France,0,0
+France,0,Senegal,0,0
+Uruguay,1,Denmark,1,1
+Denmark,1,Senegal,1,1
+France,0,Uruguay,0,0
+Denmark,2,France,2,2
+Senegal,3,Uruguay,3,3
+Paraguay,2,South Africa,2,2
+Spain,3,Slovenia,3,3
+Spain,3,Paraguay,3,3
+South Africa,1,Slovenia,1,1
+South Africa,2,Spain,2,2
+Slovenia,1,Paraguay,1,1
+Brazil,2,Turkey,2,2
+China,0,Costa Rica,0,0
+Brazil,4,China,4,4
+Costa Rica,1,Turkey,1,1
+Costa Rica,2,Brazil,2,2
+Turkey,3,China,3,3
+South Korea,2,Poland,2,2
+United States,3,Portugal,3,3
+South Korea,1,United States,1,1
+Portugal,4,Poland,4,4
+Portugal,0,South Korea,0,0
+Poland,3,United States,3,3
+Republic of Ireland,1,Cameroon,1,1
+Germany,8,Saudi Arabia,8,8
+Germany,1,Republic of Ireland,1,1
+Cameroon,1,Saudi Arabia,1,1
+Cameroon,0,Germany,0,0
+Saudi Arabia,0,Republic of Ireland,0,0
+Argentina,1,Nigeria,1,1
+England,1,Sweden,1,1
+Sweden,2,Nigeria,2,2
+Argentina,0,England,0,0
+Sweden,1,Argentina,1,1
+Nigeria,0,England,0,0
+Croatia,0,Mexico,0,0
+Italy,2,Ecuador,2,2
+Italy,1,Croatia,1,1
+Mexico,2,Ecuador,2,2
+Mexico,1,Italy,1,1
+Ecuador,1,Croatia,1,1
+Japan,2,Belgium,2,2
+Russia,2,Tunisia,2,2
+Japan,1,Russia,1,1
+Tunisia,1,Belgium,1,1
+Tunisia,0,Japan,0,0
+Belgium,3,Russia,3,3
+Germany,1,Paraguay,1,1
+Denmark,0,England,0,0
+Sweden,1,Senegal,1,1
+Spain,1,Republic of Ireland,1,1
+Mexico,0,United States,0,0
+Brazil,2,Belgium,2,2
+Japan,0,Turkey,0,0
+South Korea,2,Italy,2,2
+England,1,Brazil,1,1
+Germany,1,United States,1,1
+Spain,0,South Korea,0,0
+Senegal,0,Turkey,0,0
+Germany,1,South Korea,1,1
+Brazil,1,Turkey,1,1
+South Korea,2,Turkey,2,2
+Germany,0,Brazil,0,0
+Germany,4,Costa Rica,4,4
+Poland,0,Ecuador,0,0
+Germany,1,Poland,1,1
+Ecuador,3,Costa Rica,3,3
+Ecuador,0,Germany,0,0
+Costa Rica,1,Poland,1,1
+England,1,Paraguay,1,1
+Trinidad and Tobago,0,Sweden,0,0
+England,2,Trinidad and Tobago,2,2
+Sweden,1,Paraguay,1,1
+Sweden,2,England,2,2
+Paraguay,2,Trinidad and Tobago,2,2
+Argentina,2,Ivory Coast,2,2
+Serbia and Montenegro,0,Netherlands,0,0
+Argentina,6,Serbia and Montenegro,6,6
+Netherlands,2,Ivory Coast,2,2
+Netherlands,0,Argentina,0,0
+Ivory Coast,3,Serbia and Montenegro,3,3
+Mexico,3,Iran,3,3
+Angola,0,Portugal,0,0
+Mexico,0,Angola,0,0
+Portugal,2,Iran,2,2
+Portugal,2,Mexico,2,2
+Iran,1,Angola,1,1
+United States,0,Czech Republic,0,0
+Italy,2,Ghana,2,2
+Czech Republic,0,Ghana,0,0
+Italy,1,United States,1,1
+Czech Republic,0,Italy,0,0
+Ghana,2,United States,2,2
+Australia,3,Japan,3,3
+Brazil,1,Croatia,1,1
+Japan,0,Croatia,0,0
+Brazil,2,Australia,2,2
+Japan,1,Brazil,1,1
+Croatia,2,Australia,2,2
+South Korea,2,Togo,2,2
+France,0,Switzerland,0,0
+France,1,South Korea,1,1
+Togo,0,Switzerland,0,0
+Togo,0,France,0,0
+Switzerland,2,South Korea,2,2
+Spain,4,Ukraine,4,4
+Tunisia,2,Saudi Arabia,2,2
+Saudi Arabia,0,Ukraine,0,0
+Spain,3,Tunisia,3,3
+Saudi Arabia,0,Spain,0,0
+Ukraine,1,Tunisia,1,1
+Germany,2,Sweden,2,2
+Argentina,2,Mexico,2,2
+England,1,Ecuador,1,1
+Portugal,1,Netherlands,1,1
+Italy,1,Australia,1,1
+Switzerland,0,Ukraine,0,0
+Brazil,3,Ghana,3,3
+Spain,1,France,1,1
+Germany,1,Argentina,1,1
+Italy,3,Ukraine,3,3
+England,0,Portugal,0,0
+Brazil,0,France,0,0
+Germany,0,Italy,0,0
+Portugal,0,France,0,0
+Germany,3,Portugal,3,3
+Italy,1,France,1,1
+South Africa,1,Mexico,1,1
+Uruguay,0,France,0,0
+South Africa,0,Uruguay,0,0
+France,0,Mexico,0,0
+Mexico,0,Uruguay,0,0
+France,1,South Africa,1,1
+South Korea,2,Greece,2,2
+Argentina,1,Nigeria,1,1
+Argentina,4,South Korea,4,4
+Greece,2,Nigeria,2,2
+Nigeria,2,South Korea,2,2
+Greece,0,Argentina,0,0
+England,1,United States,1,1
+Algeria,0,Slovenia,0,0
+Slovenia,2,United States,2,2
+England,0,Algeria,0,0
+Slovenia,0,England,0,0
+United States,1,Algeria,1,1
+Serbia,0,Ghana,0,0
+Germany,4,Australia,4,4
+Germany,0,Serbia,0,0
+Ghana,1,Australia,1,1
+Ghana,0,Germany,0,0
+Australia,2,Serbia,2,2
+Netherlands,2,Denmark,2,2
+Japan,1,Cameroon,1,1
+Netherlands,1,Japan,1,1
+Cameroon,1,Denmark,1,1
+Denmark,1,Japan,1,1
+Cameroon,1,Netherlands,1,1
+Italy,1,Paraguay,1,1
+New Zealand,1,Slovakia,1,1
+Slovakia,0,Paraguay,0,0
+Italy,1,New Zealand,1,1
+Slovakia,3,Italy,3,3
+Paraguay,0,New Zealand,0,0
+Ivory Coast,0,Portugal,0,0
+Brazil,2,North Korea,2,2
+Brazil,3,Ivory Coast,3,3
+Portugal,7,North Korea,7,7
+Portugal,0,Brazil,0,0
+North Korea,0,Ivory Coast,0,0
+Honduras,0,Chile,0,0
+Spain,0,Switzerland,0,0
+Chile,1,Switzerland,1,1
+Spain,2,Honduras,2,2
+Chile,1,Spain,1,1
+Switzerland,0,Honduras,0,0
+Uruguay,2,South Korea,2,2
+United States,1,Ghana,1,1
+Germany,4,England,4,4
+Argentina,3,Mexico,3,3
+Netherlands,2,Slovakia,2,2
+Brazil,3,Chile,3,3
+Paraguay,0,Japan,0,0
+Spain,1,Portugal,1,1
+Netherlands,2,Brazil,2,2
+Uruguay,1,Ghana,1,1
+Argentina,0,Germany,0,0
+Paraguay,0,Spain,0,0
+Uruguay,2,Netherlands,2,2
+Germany,0,Spain,0,0
+Uruguay,2,Germany,2,2
+Netherlands,0,Spain,0,0
+Brazil,3,Croatia,3,3
+Mexico,1,Cameroon,1,1
+Brazil,0,Mexico,0,0
+Cameroon,0,Croatia,0,0
+Cameroon,1,Brazil,1,1
+Croatia,1,Mexico,1,1
+Spain,1,Netherlands,1,1
+Chile,3,Australia,3,3
+Australia,2,Netherlands,2,2
+Spain,0,Chile,0,0
+Australia,0,Spain,0,0
+Netherlands,2,Chile,2,2
+Colombia,3,Greece,3,3
+Ivory Coast,2,Japan,2,2
+Colombia,2,Ivory Coast,2,2
+Japan,0,Greece,0,0
+Japan,1,Colombia,1,1
+Greece,2,Ivory Coast,2,2
+Uruguay,1,Costa Rica,1,1
+England,1,Italy,1,1
+Uruguay,2,England,2,2
+Italy,0,Costa Rica,0,0
+Italy,0,Uruguay,0,0
+Costa Rica,0,England,0,0
+Switzerland,2,Ecuador,2,2
+France,3,Honduras,3,3
+Switzerland,2,France,2,2
+Honduras,1,Ecuador,1,1
+Honduras,0,Switzerland,0,0
+Ecuador,0,France,0,0
+Argentina,2,Bosnia and Herzegovina,2,2
+Iran,0,Nigeria,0,0
+Argentina,1,Iran,1,1
+Nigeria,1,Bosnia and Herzegovina,1,1
+Nigeria,2,Argentina,2,2
+Bosnia and Herzegovina,3,Iran,3,3
+Germany,4,Portugal,4,4
+Ghana,1,United States,1,1
+Germany,2,Ghana,2,2
+United States,2,Portugal,2,2
+United States,0,Germany,0,0
+Portugal,2,Ghana,2,2
+Belgium,2,Algeria,2,2
+Russia,1,South Korea,1,1
+Belgium,1,Russia,1,1
+South Korea,2,Algeria,2,2
+South Korea,0,Belgium,0,0
+Algeria,1,Russia,1,1
+Brazil,1,Chile,1,1
+Colombia,2,Uruguay,2,2
+Netherlands,2,Mexico,2,2
+Costa Rica,1,Greece,1,1
+France,2,Nigeria,2,2
+Germany,2,Algeria,2,2
+Argentina,1,Switzerland,1,1
+Belgium,2,United States,2,2
+France,0,Germany,0,0
+Brazil,2,Colombia,2,2
+Argentina,1,Belgium,1,1
+Netherlands,0,Costa Rica,0,0
+Brazil,1,Germany,1,1
+Netherlands,0,Argentina,0,0
+Brazil,0,Netherlands,0,0
+Germany,1,Argentina,1,1
+Russia,5,Saudi Arabia,5,5
+Egypt,0,Uruguay,0,0
+Russia,3,Egypt,3,3
+Uruguay,1,Saudi Arabia,1,1
+Uruguay,3,Russia,3,3
+Saudi Arabia,2,Egypt,2,2
+Morocco,0,Iran,0,0
+Portugal,3,Spain,3,3
+Portugal,1,Morocco,1,1
+Iran,0,Spain,0,0
+Iran,1,Portugal,1,1
+Spain,2,Morocco,2,2
+France,2,Australia,2,2
+Peru,0,Denmark,0,0
+Denmark,1,Australia,1,1
+France,1,Peru,1,1
+Denmark,0,France,0,0
+Australia,0,Peru,0,0
+Argentina,1,Iceland,1,1
+Croatia,2,Nigeria,2,2
+Argentina,0,Croatia,0,0
+Nigeria,2,Iceland,2,2
+Nigeria,1,Argentina,1,1
+Iceland,1,Croatia,1,1
+Costa Rica,0,Serbia,0,0
+Brazil,1,Switzerland,1,1
+Brazil,2,Costa Rica,2,2
+Serbia,1,Switzerland,1,1
+Serbia,0,Brazil,0,0
+Switzerland,2,Costa Rica,2,2
+Germany,0,Mexico,0,0
+Sweden,1,South Korea,1,1
+South Korea,1,Mexico,1,1
+Germany,2,Sweden,2,2
+South Korea,2,Germany,2,2
+Mexico,0,Sweden,0,0
+Belgium,3,Panama,3,3
+Tunisia,1,England,1,1
+Belgium,5,Tunisia,5,5
+England,6,Panama,6,6
+England,0,Belgium,0,0
+Panama,1,Tunisia,1,1
+Colombia,1,Japan,1,1
+Poland,1,Senegal,1,1
+Japan,2,Senegal,2,2
+Poland,0,Colombia,0,0
+Japan,0,Poland,0,0
+Senegal,0,Colombia,0,0
+France,4,Argentina,4,4
+Uruguay,2,Portugal,2,2
+Spain,1,Russia,1,1
+Croatia,1,Denmark,1,1
+Brazil,2,Mexico,2,2
+Belgium,3,Japan,3,3
+Sweden,1,Switzerland,1,1
+Colombia,1,England,1,1
+Uruguay,0,France,0,0
+Brazil,1,Belgium,1,1
+Sweden,0,England,0,0
+Russia,2,Croatia,2,2
+France,1,Belgium,1,1
+Croatia,2,England,2,2
+Belgium,2,England,2,2
+France,4,Croatia,4,4
+Qatar,0,Ecuador,0,0
+Senegal,0,Netherlands,0,0
+Qatar,1,Senegal,1,1
+Netherlands,1,Ecuador,1,1
+Ecuador,1,Senegal,1,1
+Netherlands,2,Qatar,2,2
+England,6,Iran,6,6
+United States,1,Wales,1,1
+Wales,0,Iran,0,0
+England,0,United States,0,0
+Wales,0,England,0,0
+Iran,0,United States,0,0
+Argentina,1,Saudi Arabia,1,1
+Mexico,0,Poland,0,0
+Poland,2,Saudi Arabia,2,2
+Argentina,2,Mexico,2,2
+Poland,0,Argentina,0,0
+Saudi Arabia,1,Mexico,1,1
+Denmark,0,Tunisia,0,0
+France,4,Australia,4,4
+Tunisia,0,Australia,0,0
+France,2,Denmark,2,2
+Australia,1,Denmark,1,1
+Tunisia,1,France,1,1
+Germany,1,Japan,1,1
+Spain,7,Costa Rica,7,7
+Japan,0,Costa Rica,0,0
+Spain,1,Germany,1,1
+Japan,2,Spain,2,2
+Costa Rica,2,Germany,2,2
+Morocco,0,Croatia,0,0
+Belgium,1,Canada,1,1
+Belgium,0,Morocco,0,0
+Croatia,4,Canada,4,4
+Croatia,0,Belgium,0,0
+Canada,1,Morocco,1,1
+Switzerland,1,Cameroon,1,1
+Brazil,2,Serbia,2,2
+Cameroon,3,Serbia,3,3
+Brazil,1,Switzerland,1,1
+Serbia,2,Switzerland,2,2
+Cameroon,1,Brazil,1,1
+Uruguay,0,South Korea,0,0
+Portugal,3,Ghana,3,3
+South Korea,2,Ghana,2,2
+Portugal,2,Uruguay,2,2
+Ghana,0,Uruguay,0,0
+South Korea,2,Portugal,2,2
+Netherlands,3,United States,3,3
+Argentina,2,Australia,2,2
+France,3,Poland,3,3
+England,3,Senegal,3,3
+Japan,1,Croatia,1,1
+Brazil,4,South Korea,4,4
+Morocco,0,Spain,0,0
+Portugal,6,Switzerland,6,6
+Croatia,1,Brazil,1,1
+Netherlands,2,Argentina,2,2
+Morocco,1,Portugal,1,1
+England,1,France,1,1
+Argentina,3,Croatia,3,3
+France,2,Morocco,2,2
+Croatia,2,Morocco,2,2
+Argentina,3,France,3,3
