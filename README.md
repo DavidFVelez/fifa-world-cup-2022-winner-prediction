@@ -13,7 +13,7 @@ The data collection process involved web scraping techniques to gather relevant 
 
 The collected data underwent cleaning and preprocessing steps:
 
-1. **data_preparation.ipynb**: This Jupyter Notebook was used for data cleaning, preparation, and transformation tasks, generating the `clean_data.csv` file.
+1. **data_cleaning_preparation.ipynb**: This Jupyter Notebook was used for data cleaning, preparation, and transformation tasks, generating the `clean_data.csv` file.
 
 ## Model Development and Prediction
 
@@ -29,7 +29,7 @@ To run this project, follow these steps:
 3. Execute the scripts and notebooks in the following order:
    - `beautifulsoup_scraping.py`
    - `selenium_scraping.py`
-   - `data_preparation.ipynb`
+   - `data_cleaning_preparation.ipynb`
    - `winner_prediction.ipynb`
 
 ## Contributing
